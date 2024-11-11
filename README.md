@@ -43,4 +43,5 @@ Source code of the application is in src folder.
 
 ## There are two stand alone files in src folder as below:
 -> query.sql : this contains the sql query for the questions asked for the assignnment. 
+
 -> report_UI.png : Its a simple bar chart generated with the data generated. 
