@@ -3,7 +3,7 @@
 import sqlite3
 import logging
 from typing import Dict
-from config import DB_PATH
+from src.config.config import DB_PATH
 
 # Configure logger
 logger = logging.getLogger(__name__)
