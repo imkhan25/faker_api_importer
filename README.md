@@ -25,7 +25,7 @@ domain.
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/imkhan25/simple_weather_app.git
+   git clone https://github.com/imkhan25/faker_api_importer.git
    
 2.Install dependencies:
 
